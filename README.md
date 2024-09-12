@@ -22,4 +22,4 @@ Users should be able to:
 - HTML5
 - CSS3
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/codewriter027)
+- Frontend Mentor - [@codewriter027](https://www.frontendmentor.io/profile/codewriter027)
